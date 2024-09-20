@@ -1,22 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 20px;
-        background-color: #f4f4f4;
-    }
-    h1, h2 {
-        color: #333;
-    }
-    pre {
-        background-color: #eaeaea;
-        padding: 10px;
-        border-radius: 5px;
-    }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
 </head>
 <body>
 
